@@ -1,12 +1,17 @@
 {
   "name": "sm-loggerx",
-  "version": "1.0.6",
+  "version": "0.1.0",
   "description": "",
   "main": "sm-loggerx.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "log",
+    "logger",
+    "message"
+  ],
+  "author": "Gelson Carlos",
+  "license": "MIT",
+  "github": "https://github.com/gelsoncjunior/sm-loggerx"
 }
